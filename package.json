@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-strided-smediansorted",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Calculate the median value of a sorted single-precision floating-point strided array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,17 +41,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-shared": "^0.1.0",
+    "@stdlib/blas-base-shared": "^0.2.0",
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-int64": "^0.2.2",
     "@stdlib/napi-argv-strided-float32array": "^0.2.2",
     "@stdlib/napi-create-double": "^0.0.2",
-    "@stdlib/napi-export": "^0.2.2",
+    "@stdlib/napi-export": "^0.3.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
     "@stdlib/strided-base-stride2offset": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-float32": "^0.2.2",
@@ -104,7 +104,6 @@
     "single",
     "float32array"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
