@@ -308,7 +308,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-strided/dmediansorted`][@stdlib/stats/strided/dmediansorted]</span><span class="delimiter">: </span><span class="description">calculate the median value of a sorted double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dmedian-sorted`][@stdlib/stats/strided/dmedian-sorted]</span><span class="delimiter">: </span><span class="description">calculate the median value of a sorted double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/mediansorted`][@stdlib/stats/strided/mediansorted]</span><span class="delimiter">: </span><span class="description">calculate the median value of a sorted strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smean`][@stdlib/stats/strided/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
 
@@ -394,7 +394,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/strided/dmediansorted]: https://github.com/stdlib-js/stats-strided-dmediansorted
+[@stdlib/stats/strided/dmedian-sorted]: https://github.com/stdlib-js/stats-strided-dmedian-sorted
 
 [@stdlib/stats/strided/mediansorted]: https://github.com/stdlib-js/stats-strided-mediansorted
 
